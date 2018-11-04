@@ -1,9 +1,9 @@
 
 ## Some information before you begin
-You need the following software installed in you computer:
-  Git [GitHub Desktop - Windows](https://desktop.github.com/)
-  Editor [Visual Studio Code](https://code.visualstudio.com/)
-  Node.js [Long Term Support - Windows](https://nodejs.org/dist/v10.13.0/node-v10.13.0-x64.msi)
+You need the following software installed in you computer:<br/>
+  Git [GitHub Desktop - Windows](https://desktop.github.com/)<br/>
+  Editor [Visual Studio Code](https://code.visualstudio.com/)<br/>
+  Node.js [Long Term Support - Windows](https://nodejs.org/dist/v10.13.0/node-v10.13.0-x64.msi)<br/>
 
 In order to work with this project you should start by having a "buy-anywhere" folder in your system (preferable in c:\buy-anywhere\), inside you can execute 
   git clone https://github.com/maximilianotopp/buy-anywhere-front-end.git
