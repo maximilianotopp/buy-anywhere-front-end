@@ -20,9 +20,9 @@ In order to work with this project you should start by having a "buy-anywhere" f
 - Once your work is finished (Your application compiles, you had tested it and you merged the master branch into your branch!!!), you upload all changes to the repository and create a Pull Request and assign someone to it (we will assign everyone to the PR so that everyone can see the changes)
 - The only person allowed to aprove a PR (Pull Request) is the tech leader (just at the begining, don't get mad, yes, I'm talking specially to you...)
 
-#Have Fun!!
+# Have Fun!!
 
-##Some words from facebook team
+## Some words from facebook team
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
