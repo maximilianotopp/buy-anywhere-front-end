@@ -7,6 +7,7 @@ class Home extends Component {
     return (
       <div className="Home">
         <header className="Home-header">
+        <h1>Buy Anywhere Frontend</h1>
           <img src={logo} className="Home-logo" alt="logo" />
           <p>
             Edit <code>src/Home.js</code> and save to reload.
