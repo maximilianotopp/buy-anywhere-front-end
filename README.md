@@ -6,7 +6,8 @@ You need the following software installed in you computer:<br/>
   Node.js [Long Term Support - Windows](https://nodejs.org/dist/v10.13.0/node-v10.13.0-x64.msi)<br/>
 
 In order to work with this project you should start by having a "buy-anywhere" folder in your system (preferable in c:\buy-anywhere\), inside you can execute <br/>
-  git clone https://github.com/maximilianotopp/buy-anywhere-front-end.git
+  git clone https://github.com/maximilianotopp/buy-anywhere-front-end.git<br/>
+  npm install<br/>
 
 ## Rules
 - There should be NO changes to MASTER branch. Changes are only made by Aproving a Pull-Request and merging a development branch to master
